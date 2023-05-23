@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    justify-content: center;
+   
+}
+
+.view1{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding: 50px;
+    display: inline-block;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px palevioletred;
+}
+.name{
+    padding: 7px;
+}
+input{
+    padding: 5px;
+    margin: 6px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+.a1{
+    margin-top: 20px;
+}
+.view2{
+    margin-top: 50px;
+    padding: 50px;
+    position: fixed;
+    display: contents;
+
+}
+#btn{
+    padding: 6px 30px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: bolder;
+}
